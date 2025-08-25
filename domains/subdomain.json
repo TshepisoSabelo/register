@@ -5,6 +5,7 @@
         "email": "tshepisosabelo29@gmail.com"
     },
     "records": {
-        "CNAME": "TshepisoSabelo.github.io"
+        "A": ["75.2.60.5"],
+        "CNAME": "tsmotshoene.netlify.app"
     }
 }
